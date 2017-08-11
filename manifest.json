@@ -1,0 +1,12 @@
+﻿{
+ "name": "humusiot extension",
+ "version": "1.0",
+ "manifest_version": 2,
+ "description": "This ext will generate popup with humusiot", 
+ "browser_action":
+   {
+    "icons": ["aic19h.png"],
+    "default_icon": "aic19h.png",
+    "default_popup": "a17var.html"
+   }
+}
